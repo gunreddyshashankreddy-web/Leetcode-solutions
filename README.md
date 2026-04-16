@@ -23,4 +23,16 @@ My LeetCode problem solutions in Java
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0072-edit-distance) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
