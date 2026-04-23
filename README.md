@@ -14,6 +14,7 @@ My LeetCode problem solutions in Java
 | [0063-unique-paths-ii](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0072-edit-distance) |
+| [0583-delete-operation-for-two-strings](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -23,6 +24,7 @@ My LeetCode problem solutions in Java
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0072-edit-distance) |
+| [0583-delete-operation-for-two-strings](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 ## Linked List
 |  |
 | ------- |
