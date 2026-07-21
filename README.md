@@ -27,6 +27,7 @@ My LeetCode problem solutions in Java
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0583-delete-operation-for-two-strings](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -43,4 +44,12 @@ My LeetCode problem solutions in Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
