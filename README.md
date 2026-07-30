@@ -10,6 +10,7 @@ My LeetCode problem solutions in Java
 | [0064-minimum-path-sum](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0120-triangle) |
 | [0643-maximum-average-subarray-i](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0946-validate-stack-sequences](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,4 +57,12 @@ My LeetCode problem solutions in Java
 | [0003-longest-substring-without-repeating-characters](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Stack
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
