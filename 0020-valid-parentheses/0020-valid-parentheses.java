@@ -11,7 +11,7 @@ class Solution {
                 }
                 else{
                     char tos = stack.peek();
-                    if(((ch == ')') & (tos != '(')) ||((ch == ']') & (tos != '[')) ||((ch == '}') & (tos != '{'))){
+                    if(((ch == ')') && (tos != '(')) ||((ch == ']') && (tos != '[')) ||((ch == '}') && (tos != '{'))){
                         return false;
                     }
                     stack .pop();
