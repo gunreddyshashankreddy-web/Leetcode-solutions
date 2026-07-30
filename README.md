@@ -36,6 +36,7 @@ My LeetCode problem solutions in Java
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2390-removing-stars-from-a-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -63,8 +64,10 @@ My LeetCode problem solutions in Java
 | ------- |
 | [0020-valid-parentheses](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0946-validate-stack-sequences](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
+| [2390-removing-stars-from-a-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
+| [2390-removing-stars-from-a-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
