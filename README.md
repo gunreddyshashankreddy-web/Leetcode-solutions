@@ -32,6 +32,7 @@ My LeetCode problem solutions in Java
 | [0003-longest-substring-without-repeating-characters](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0072-edit-distance) |
+| [0402-remove-k-digits](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0583-delete-operation-for-two-strings](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -63,6 +64,7 @@ My LeetCode problem solutions in Java
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0946-validate-stack-sequences](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -70,4 +72,12 @@ My LeetCode problem solutions in Java
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
