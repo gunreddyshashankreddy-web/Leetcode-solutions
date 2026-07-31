@@ -18,6 +18,7 @@ My LeetCode problem solutions in Java
 | [0064-minimum-path-sum](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0120-triangle) |
+| [0392-is-subsequence](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -34,6 +35,7 @@ My LeetCode problem solutions in Java
 | [0072-edit-distance](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0583-delete-operation-for-two-strings](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -87,4 +89,5 @@ My LeetCode problem solutions in Java
 | ------- |
 | [0125-valid-palindrome](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
