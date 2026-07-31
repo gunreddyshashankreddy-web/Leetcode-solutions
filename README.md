@@ -12,6 +12,7 @@ My LeetCode problem solutions in Java
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0946-validate-stack-sequences](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
+| [0977-squares-of-a-sorted-array](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
@@ -94,6 +95,7 @@ My LeetCode problem solutions in Java
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
@@ -102,5 +104,6 @@ My LeetCode problem solutions in Java
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
