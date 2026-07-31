@@ -9,6 +9,7 @@ My LeetCode problem solutions in Java
 | [0063-unique-paths-ii](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0120-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0946-validate-stack-sequences](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 ## Dynamic Programming
@@ -88,6 +89,11 @@ My LeetCode problem solutions in Java
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
