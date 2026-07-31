@@ -32,6 +32,7 @@ My LeetCode problem solutions in Java
 | [0003-longest-substring-without-repeating-characters](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0583-delete-operation-for-two-strings](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -84,5 +85,6 @@ My LeetCode problem solutions in Java
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
