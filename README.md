@@ -11,6 +11,7 @@ My LeetCode problem solutions in Java
 | [0120-triangle](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -73,11 +74,13 @@ My LeetCode problem solutions in Java
 | ------- |
 | [0020-valid-parentheses](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0735-asteroid-collision](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
