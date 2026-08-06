@@ -9,6 +9,7 @@ My LeetCode problem solutions in Java
 | [0063-unique-paths-ii](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0120-triangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -55,6 +56,7 @@ My LeetCode problem solutions in Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -74,6 +76,7 @@ My LeetCode problem solutions in Java
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0739-daily-temperatures) |
