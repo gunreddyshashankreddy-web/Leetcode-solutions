@@ -42,6 +42,7 @@ My LeetCode problem solutions in Java
 | [0125-valid-palindrome](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0583-delete-operation-for-two-strings](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -61,6 +62,7 @@ My LeetCode problem solutions in Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +79,7 @@ My LeetCode problem solutions in Java
 | ------- |
 | [0020-valid-parentheses](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0739-daily-temperatures) |
