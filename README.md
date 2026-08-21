@@ -48,6 +48,7 @@ My LeetCode problem solutions in Java
 | [0541-reverse-string-ii](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0796-rotate-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -122,4 +123,8 @@ My LeetCode problem solutions in Java
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
