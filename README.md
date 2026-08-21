@@ -16,6 +16,7 @@ My LeetCode problem solutions in Java
 | [0739-daily-temperatures](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1528-shuffle-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
@@ -49,6 +50,7 @@ My LeetCode problem solutions in Java
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1528-shuffle-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1528-shuffle-string) |
 | [2390-removing-stars-from-a-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
