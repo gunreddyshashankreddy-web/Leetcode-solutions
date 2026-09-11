@@ -124,6 +124,7 @@ My LeetCode problem solutions in Java
 | ------- |
 | [0035-search-insert-position](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0704-binary-search) |
 ## Sorting
 |  |
@@ -139,4 +140,8 @@ My LeetCode problem solutions in Java
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
