@@ -12,6 +12,7 @@ My LeetCode problem solutions in Java
 | [0150-evaluate-reverse-polish-notation](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
@@ -121,6 +122,7 @@ My LeetCode problem solutions in Java
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
