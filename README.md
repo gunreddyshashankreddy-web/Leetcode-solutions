@@ -52,6 +52,7 @@ My LeetCode problem solutions in Java
 | [1143-longest-common-subsequence](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1859-sorting-the-sentence](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -123,8 +124,13 @@ My LeetCode problem solutions in Java
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1859-sorting-the-sentence](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0796-rotate-string) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
