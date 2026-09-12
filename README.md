@@ -66,6 +66,7 @@ My LeetCode problem solutions in Java
 | ------- |
 | [0002-add-two-numbers](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1399-count-largest-group](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1399-count-largest-group) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +76,7 @@ My LeetCode problem solutions in Java
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1399-count-largest-group](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
@@ -144,4 +146,8 @@ My LeetCode problem solutions in Java
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/0278-first-bad-version) |
+## Counting
+|  |
+| ------- |
+| [1399-count-largest-group](https://github.com/gunreddyshashankreddy-web/Leetcode-solutions/tree/master/1399-count-largest-group) |
 <!---LeetCode Topics End-->
